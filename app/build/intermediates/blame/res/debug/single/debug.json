@@ -28,12 +28,12 @@
         "source": "/Users/lolaabudu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e8515a35e9791fd1dd50c3639fb242a6/res/drawable-ldrtl-hdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
-        "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
-        "source": "/Users/lolaabudu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e8515a35e9791fd1dd50c3639fb242a6/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
-    },
-    {
         "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/layout_notification_template_big_media.xml.flat",
         "source": "/Users/lolaabudu/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/e2097832d802b05654f2a9e78c76eda0/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/Users/lolaabudu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e8515a35e9791fd1dd50c3639fb242a6/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
         "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/layout_tooltip.xml.flat",
@@ -56,12 +56,16 @@
         "source": "/Users/lolaabudu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e8515a35e9791fd1dd50c3639fb242a6/res/drawable-xhdpi-v4/abc_ic_star_half_black_48dp.png"
     },
     {
+        "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/color-v23_abc_color_highlight_material.xml.flat",
+        "source": "/Users/lolaabudu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e8515a35e9791fd1dd50c3639fb242a6/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
         "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/anim_abc_slide_out_bottom.xml.flat",
         "source": "/Users/lolaabudu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e8515a35e9791fd1dd50c3639fb242a6/res/anim/abc_slide_out_bottom.xml"
     },
     {
-        "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/color-v23_abc_color_highlight_material.xml.flat",
-        "source": "/Users/lolaabudu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e8515a35e9791fd1dd50c3639fb242a6/res/color-v23/abc_color_highlight_material.xml"
+        "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_favorite_info.png.flat",
+        "source": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/src/main/res/drawable-xhdpi/ic_favorite_info.png"
     },
     {
         "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
@@ -104,16 +108,16 @@
         "source": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_launcher_background.xml"
     },
     {
-        "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
-        "source": "/Users/lolaabudu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e8515a35e9791fd1dd50c3639fb242a6/res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+        "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "/Users/lolaabudu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e8515a35e9791fd1dd50c3639fb242a6/res/drawable-xhdpi-v4/abc_ic_star_black_48dp.png"
     },
     {
         "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/anim_abc_grow_fade_in_from_bottom.xml.flat",
         "source": "/Users/lolaabudu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e8515a35e9791fd1dd50c3639fb242a6/res/anim/abc_grow_fade_in_from_bottom.xml"
     },
     {
-        "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_star_black_48dp.png.flat",
-        "source": "/Users/lolaabudu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e8515a35e9791fd1dd50c3639fb242a6/res/drawable-xhdpi-v4/abc_ic_star_black_48dp.png"
+        "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "/Users/lolaabudu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e8515a35e9791fd1dd50c3639fb242a6/res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
     },
     {
         "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/color_abc_tint_btn_checkable.xml.flat",
@@ -148,24 +152,24 @@
         "source": "/Users/lolaabudu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e8515a35e9791fd1dd50c3639fb242a6/res/color/switch_thumb_material_light.xml"
     },
     {
-        "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
-        "source": "/Users/lolaabudu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e8515a35e9791fd1dd50c3639fb242a6/res/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
-    },
-    {
         "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
         "source": "/Users/lolaabudu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e8515a35e9791fd1dd50c3639fb242a6/res/drawable-mdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/Users/lolaabudu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e8515a35e9791fd1dd50c3639fb242a6/res/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
         "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/color-v23_abc_btn_colored_text_material.xml.flat",
         "source": "/Users/lolaabudu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e8515a35e9791fd1dd50c3639fb242a6/res/color-v23/abc_btn_colored_text_material.xml"
     },
     {
-        "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
-        "source": "/Users/lolaabudu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e8515a35e9791fd1dd50c3639fb242a6/res/drawable-mdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
-    },
-    {
         "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "/Users/lolaabudu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e8515a35e9791fd1dd50c3639fb242a6/res/drawable-ldrtl-xxxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "/Users/lolaabudu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e8515a35e9791fd1dd50c3639fb242a6/res/drawable-mdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
         "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
@@ -244,12 +248,12 @@
         "source": "/Users/lolaabudu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e8515a35e9791fd1dd50c3639fb242a6/res/drawable-hdpi-v4/abc_text_select_handle_left_mtrl_light.png"
     },
     {
-        "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher_background.png.flat",
-        "source": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/generated/res/pngs/debug/drawable-hdpi/ic_launcher_background.png"
-    },
-    {
         "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/drawable_notification_bg_low.xml.flat",
         "source": "/Users/lolaabudu/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/2cfc3357bc981ba189b4a489715ac57a/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/generated/res/pngs/debug/drawable-hdpi/ic_launcher_background.png"
     },
     {
         "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/drawable_abc_btn_colored_material.xml.flat",
@@ -296,24 +300,24 @@
         "source": "/Users/lolaabudu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e8515a35e9791fd1dd50c3639fb242a6/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
-        "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/layout_select_dialog_singlechoice_material.xml.flat",
-        "source": "/Users/lolaabudu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e8515a35e9791fd1dd50c3639fb242a6/res/layout/select_dialog_singlechoice_material.xml"
+        "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/anim-v21_design_bottom_sheet_slide_out.xml.flat",
+        "source": "/Users/lolaabudu/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/95dda05479ad136b28f1ae075b0554e6/res/anim-v21/design_bottom_sheet_slide_out.xml"
     },
     {
         "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/color_abc_search_url_text.xml.flat",
         "source": "/Users/lolaabudu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e8515a35e9791fd1dd50c3639fb242a6/res/color/abc_search_url_text.xml"
     },
     {
-        "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/anim-v21_design_bottom_sheet_slide_out.xml.flat",
-        "source": "/Users/lolaabudu/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/95dda05479ad136b28f1ae075b0554e6/res/anim-v21/design_bottom_sheet_slide_out.xml"
-    },
-    {
-        "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/color_abc_tint_edittext.xml.flat",
-        "source": "/Users/lolaabudu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e8515a35e9791fd1dd50c3639fb242a6/res/color/abc_tint_edittext.xml"
+        "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/layout_select_dialog_singlechoice_material.xml.flat",
+        "source": "/Users/lolaabudu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e8515a35e9791fd1dd50c3639fb242a6/res/layout/select_dialog_singlechoice_material.xml"
     },
     {
         "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/layout_abc_action_mode_close_item_material.xml.flat",
         "source": "/Users/lolaabudu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e8515a35e9791fd1dd50c3639fb242a6/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/color_abc_tint_edittext.xml.flat",
+        "source": "/Users/lolaabudu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e8515a35e9791fd1dd50c3639fb242a6/res/color/abc_tint_edittext.xml"
     },
     {
         "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/layout_abc_action_menu_item_layout.xml.flat",
@@ -348,12 +352,12 @@
         "source": "/Users/lolaabudu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e8515a35e9791fd1dd50c3639fb242a6/res/anim/abc_slide_out_top.xml"
     },
     {
-        "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
-    },
-    {
         "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/drawable_abc_ic_search_api_material.xml.flat",
         "source": "/Users/lolaabudu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e8515a35e9791fd1dd50c3639fb242a6/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
     },
     {
         "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
@@ -380,6 +384,10 @@
         "source": "/Users/lolaabudu/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/2cfc3357bc981ba189b4a489715ac57a/res/drawable/notification_bg.xml"
     },
     {
+        "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_status_info.png.flat",
+        "source": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/src/main/res/drawable-xhdpi/ic_status_info.png"
+    },
+    {
         "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/layout_notification_template_custom_big.xml.flat",
         "source": "/Users/lolaabudu/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/2cfc3357bc981ba189b4a489715ac57a/res/layout/notification_template_custom_big.xml"
     },
@@ -404,12 +412,12 @@
         "source": "/Users/lolaabudu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e8515a35e9791fd1dd50c3639fb242a6/res/drawable-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
-        "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
-    },
-    {
         "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
         "source": "/Users/lolaabudu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e8515a35e9791fd1dd50c3639fb242a6/res/drawable-xhdpi-v4/abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
         "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
@@ -420,12 +428,12 @@
         "source": "/Users/lolaabudu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e8515a35e9791fd1dd50c3639fb242a6/res/drawable-xxxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
     },
     {
-        "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/anim_abc_fade_in.xml.flat",
-        "source": "/Users/lolaabudu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e8515a35e9791fd1dd50c3639fb242a6/res/anim/abc_fade_in.xml"
-    },
-    {
         "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
         "source": "/Users/lolaabudu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e8515a35e9791fd1dd50c3639fb242a6/res/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/anim_abc_fade_in.xml.flat",
+        "source": "/Users/lolaabudu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e8515a35e9791fd1dd50c3639fb242a6/res/anim/abc_fade_in.xml"
     },
     {
         "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
@@ -456,16 +464,16 @@
         "source": "/Users/lolaabudu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e8515a35e9791fd1dd50c3639fb242a6/res/drawable-hdpi-v4/abc_ic_star_black_48dp.png"
     },
     {
-        "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
-        "source": "/Users/lolaabudu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e8515a35e9791fd1dd50c3639fb242a6/res/drawable-xxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+        "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/layout_abc_dialog_title_material.xml.flat",
+        "source": "/Users/lolaabudu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e8515a35e9791fd1dd50c3639fb242a6/res/layout/abc_dialog_title_material.xml"
     },
     {
         "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/anim_tooltip_exit.xml.flat",
         "source": "/Users/lolaabudu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e8515a35e9791fd1dd50c3639fb242a6/res/anim/tooltip_exit.xml"
     },
     {
-        "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/layout_abc_dialog_title_material.xml.flat",
-        "source": "/Users/lolaabudu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e8515a35e9791fd1dd50c3639fb242a6/res/layout/abc_dialog_title_material.xml"
+        "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "/Users/lolaabudu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e8515a35e9791fd1dd50c3639fb242a6/res/drawable-xxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
     },
     {
         "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/drawable_abc_btn_borderless_material.xml.flat",
@@ -592,12 +600,12 @@
         "source": "/Users/lolaabudu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e8515a35e9791fd1dd50c3639fb242a6/res/drawable-xxhdpi-v4/abc_ic_star_half_black_36dp.png"
     },
     {
-        "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/drawable_abc_list_selector_background_transition_holo_light.xml.flat",
-        "source": "/Users/lolaabudu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e8515a35e9791fd1dd50c3639fb242a6/res/drawable/abc_list_selector_background_transition_holo_light.xml"
-    },
-    {
         "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/layout_support_simple_spinner_dropdown_item.xml.flat",
         "source": "/Users/lolaabudu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e8515a35e9791fd1dd50c3639fb242a6/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/drawable_abc_list_selector_background_transition_holo_light.xml.flat",
+        "source": "/Users/lolaabudu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e8515a35e9791fd1dd50c3639fb242a6/res/drawable/abc_list_selector_background_transition_holo_light.xml"
     },
     {
         "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/color-v23_design_tint_password_toggle.xml.flat",
@@ -610,6 +618,10 @@
     {
         "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/layout_design_layout_tab_icon.xml.flat",
         "source": "/Users/lolaabudu/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/95dda05479ad136b28f1ae075b0554e6/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_status_info.png.flat",
+        "source": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/src/main/res/drawable-xxhdpi/ic_status_info.png"
     },
     {
         "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/layout_notification_action.xml.flat",
@@ -654,6 +666,10 @@
     {
         "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
         "source": "/Users/lolaabudu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e8515a35e9791fd1dd50c3639fb242a6/res/drawable-xxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_favorite_info.png.flat",
+        "source": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/src/main/res/drawable-mdpi/ic_favorite_info.png"
     },
     {
         "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
@@ -824,6 +840,10 @@
         "source": "/Users/lolaabudu/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/95dda05479ad136b28f1ae075b0554e6/res/color/design_tint_password_toggle.xml"
     },
     {
+        "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_status_info.png.flat",
+        "source": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/src/main/res/drawable-xxxhdpi/ic_status_info.png"
+    },
+    {
         "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/layout_notification_media_cancel_action.xml.flat",
         "source": "/Users/lolaabudu/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/e2097832d802b05654f2a9e78c76eda0/res/layout/notification_media_cancel_action.xml"
     },
@@ -992,6 +1012,10 @@
         "source": "/Users/lolaabudu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e8515a35e9791fd1dd50c3639fb242a6/res/drawable-xhdpi-v4/abc_list_focused_holo.9.png"
     },
     {
+        "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_status_info.png.flat",
+        "source": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/src/main/res/drawable-hdpi/ic_status_info.png"
+    },
+    {
         "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
         "source": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
@@ -1050,6 +1074,10 @@
     {
         "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_radio.xml.flat",
         "source": "/Users/lolaabudu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e8515a35e9791fd1dd50c3639fb242a6/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_status_info.png.flat",
+        "source": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/src/main/res/drawable-mdpi/ic_status_info.png"
     },
     {
         "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
@@ -1198,6 +1226,10 @@
     {
         "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_layout.xml.flat",
         "source": "/Users/lolaabudu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e8515a35e9791fd1dd50c3639fb242a6/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_favorite_info.png.flat",
+        "source": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/src/main/res/drawable-xxhdpi/ic_favorite_info.png"
     },
     {
         "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/anim-v21_design_bottom_sheet_slide_in.xml.flat",
@@ -1648,6 +1680,10 @@
         "source": "/Users/lolaabudu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e8515a35e9791fd1dd50c3639fb242a6/res/drawable/abc_ic_voice_search_api_material.xml"
     },
     {
+        "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_favorite_info.png.flat",
+        "source": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/src/main/res/drawable-hdpi/ic_favorite_info.png"
+    },
+    {
         "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/menu_menu_main.xml.flat",
         "source": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/src/main/res/menu/menu_main.xml"
     },
@@ -1846,6 +1882,10 @@
     {
         "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
         "source": "/Users/lolaabudu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e8515a35e9791fd1dd50c3639fb242a6/res/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_favorite_info.png.flat",
+        "source": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/src/main/res/drawable-xxxhdpi/ic_favorite_info.png"
     },
     {
         "merged": "/Users/lolaabudu/Desktop/android-fundamentals-apps-v2/DroidCafeInput/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
